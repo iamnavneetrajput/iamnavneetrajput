@@ -1,5 +1,13 @@
 Hello there 👋, I'm Navneet! 👨
 
+
+Some github meaning
+
+1 I've noticed, on the languages bar, that some of the languages used on my project are "Hack".
+I was just wondering what this "hack" actually means ?
+
+A php file is considered a hack file by Gitlab and Github when there is only HTML code in it.
+
 <!--
 **iamnavneetrajput/iamnavneetrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
