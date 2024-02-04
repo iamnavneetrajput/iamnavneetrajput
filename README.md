@@ -1,8 +1,6 @@
 Hello there 👋, I'm Navneet! 👨
 
 
-Some github meaning
-
 Important Notice
 🚨 Project Update in Progress: Please be informed that some projects have been temporarily removed due to ongoing updates and improvements. We are actively working to enhance and refine these projects to deliver a better experience.
 
