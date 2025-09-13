@@ -12,7 +12,6 @@ Contact and Collaboration
 
 Thank you for your understanding and continued support. 🌟
 
-A php file is considered a hack file by Gitlab and Github when there is only HTML code in it.
 
 <!--
 **iamnavneetrajput/iamnavneetrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
